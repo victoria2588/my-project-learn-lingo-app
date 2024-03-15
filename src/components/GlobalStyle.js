@@ -8,6 +8,8 @@ export const GlobalStyle = createGlobalStyle`
   --color-white: #FFFFFF;
   --color-pink: #E0A39A;
 	--color-light-pink: #f2c0bd;
+  --color-light-grey: #f8f8f8;
+
 }
 
 body {
